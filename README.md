@@ -1,7 +1,9 @@
 ## Security Posture Evaluation and Threat Intelligence Analysis using Python
 # Project by:
 T. Bharathi Priyan
+
 Final Year, Department of Computer Science and Engineering (CSE)
+
 Saveetha Engineering College
 
 ## Project Overview
@@ -86,7 +88,7 @@ Reports will be saved in the reports/ folder.
 Project Structure
 
 # security-posture-evaluation-threat-intelligence/
-│
+
 ├── posture_evaluation.py           # Security posture evaluation script
 
 ├── threat_intelligence.py          # Threat intelligence collection and analysis
@@ -94,12 +96,17 @@ Project Structure
 ├── utils/                          # Helper functions and utilities
 
 │   ├── network_scanner.py
+
 │   └── data_visualizer.py
-│
+
+
 ├── reports/                        # Folder for generated reports
+
 │   └── security_report_01.pdf
-│
+
+
 ├── requirements.txt                # List of required Python packages
+
 └── README.md                       # Project documentation
 
 ### Contributions
