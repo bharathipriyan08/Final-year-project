@@ -16,7 +16,7 @@ Identifies security gaps in a system or network.
 Evaluates network vulnerabilities and risks.
 Generates security reports for analysis.
 
-# hreat Intelligence Analysis
+# Threat Intelligence Analysis
 Collects and processes threat intelligence data (such as IP addresses, domains, etc.).
 Identifies potential malicious activities using threat intelligence feeds.
 Detects and analyzes common attack patterns and trends.
@@ -88,8 +88,11 @@ Project Structure
 # security-posture-evaluation-threat-intelligence/
 │
 ├── posture_evaluation.py           # Security posture evaluation script
+
 ├── threat_intelligence.py          # Threat intelligence collection and analysis
+
 ├── utils/                          # Helper functions and utilities
+
 │   ├── network_scanner.py
 │   └── data_visualizer.py
 │
@@ -100,10 +103,10 @@ Project Structure
 └── README.md                       # Project documentation
 
 ### Contributions
-## Feel free to contribute to the project by:
-# Forking the repository
-# Creating an issue or submitting a pull request
-# Providing feedback and suggestions for improvement
+Feel free to contribute to the project by:
+Forking the repository
+Creating an issue or submitting a pull request
+Providing feedback and suggestions for improvement
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
